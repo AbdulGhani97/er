@@ -1,0 +1,14 @@
+<xml>
+<channel>
+<version>1.0</version>
+<name>Main</name>
+<description>small channel description goes here</description>
+<encryption>Yes</encryption>
+<refresh_type>auto</refresh_type>
+<refresh_time>86400</refresh_time>
+<mastertype>Live</mastertype>
+<category_view>2-TierView</category_view>
+<channel_logo></channel_logo>
+<base_url>https://dl.dropboxusercontent.com/s/aqxo6o04xcs2pl9/Testing_Dev_enc.xml?dl=0</base_url>
+</channel>
+</xml>
